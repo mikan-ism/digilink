@@ -23,11 +23,16 @@
     <p>初代デジモンが好きな高校生の交流掲示板。</p>
     <a class="hero-button" href="#board">みんなの投稿を読む <span aria-hidden="true">↓</span></a>
   </div>
-  <div class="hero-visual{% if hero_art %} hero-visual-reference{% endif %}">
-    <img src="{{ hero_art or url_for('static', filename='images/hero.svg') }}"
-         alt="{{ '初代デジモンアドベンチャーの選ばれし子供たち8人とパートナーデジモン8体' if hero_art else '青空と海に囲まれた島のイラスト' }}"
-         fetchpriority="high">
-  </div>
+  {% if hero_art %}
+    <div class="hero-visual hero-visual-reference">
+      <img src="{{ hero_art }}" alt="初代デジモンアドベンチャーの選ばれし子供たち8人とパートナーデジモン8体" fetchpriority="high">
+    </div>
+  {% else %}
+    <figure class="hero-visual hero-visual-embed">
+      <iframe title="ゆきみさんのイラスト「25年目の夏」" src="https://platform.twitter.com/embed/Tweet.html?id=1818662916419469691&amp;dnt=true&amp;hideThread=true" referrerpolicy="no-referrer"></iframe>
+      <figcaption>8組のひと夏 <a href="https://x.com/yukimidigi/status/1818662916419469691">ゆきみさんの原投稿を見る ↗</a></figcaption>
+    </figure>
+  {% endif %}
 </section>
 <section id="partners" class="partners-section" aria-labelledby="partners-title"><div class="section-heading"><h2 id="partners-title"><img src="{{ url_for('static', filename='images/device.svg') }}" width="29" height="29" alt="">きみのパートナーは？</h2><p>選んだパートナーが、投稿の目印になります。</p></div>
 <div class="partner-grid" role="group" aria-label="パートナーを選択">

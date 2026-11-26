@@ -6,7 +6,7 @@
 
 | ローカルファイル | 内容と出典 |
 | --- | --- |
-| `hero.webp` | 初代の子供たち8人とパートナーデジモン8体を描いた2024年8月1日付のファンイラスト。画像内の署名は `@yukimidigi`。[確認した掲載ページ](https://forum.gamer.com.tw/C.php?bsn=7255&snA=9688)・[掲載画像](https://truth.bahamut.com.tw/s01/202408/forum/7255/f704f682a3e8b9f3b3776341fc017b02.JPG)。画像全体と署名を残してWebPに変換。 |
+| `hero.webp` | ゆきみさんの[「25年目の夏」原投稿](https://x.com/yukimidigi/status/1818662916419469691)。初代の子供たち8人とパートナーデジモン8体を描いたファンイラスト。ローカル確認用のWebPには画像全体と署名を残しています。 |
 | `agumon.webp`、`gabumon.webp`、`piyomon.webp`、`tentomon.webp`、`palmon.webp`、`gomamon.webp`、`patamon.webp`、`tailmon.webp` | 東映アニメーションの[「僕らが選んだベストアドベンチャー」](https://www.toei-anim.co.jp/tv/digimon_selection/)の作品紹介内、1999年版のキャラクター欄に掲載された立ち絵。余白を調整してWebPに変換。 |
 | `tailmon-scene.webp` | 同記念サイトの[第37話「完全体総進撃！きらめくエンジェウーモン」](https://www.toei-anim.co.jp/tv/digimon_selection/episode/summary/index.php?8)の[掲載場面写真](https://www.toei-anim.co.jp/tv/digimon_selection/assets/img/episode/8/story.webp)。サンプル投稿に使用。 |
 
@@ -16,4 +16,4 @@
 
 `hero.svg`、`device.svg`、`sample-sketch.svg`、`crests.svg` はこのサイト用に作成した風景、端末の図案、恐竜スケッチ、紋章名をヒントにした独自の記号です。旧パートナーアイコン（`*mon.svg`）も公開用ソースから外しています。
 
-公開版では、風景のイラストとパートナー名の色付きバッジを表示します。デモ投稿用の風景と端末の画像は、この課題用に作成した素材です。公開サイトでのデモ投稿に利用できます。
+公開版ではゆきみさんの原投稿をXの公式埋め込みで表示し、画像ファイルを配布しません。埋め込みを表示できない環境では原投稿へのリンクを利用できます。デモ投稿用の風景、端末、希望の図案はこの課題用の素材です。
