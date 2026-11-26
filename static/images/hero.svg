@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 480" role="img" aria-labelledby="title desc">
+<title id="title">青空と、まだ知らない島</title><desc id="desc">大きな入道雲、海に浮かぶ島、浜辺の電話ボックスを描いたオリジナルイラスト。</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".14"/></pattern><pattern id="waves" width="100" height="31" patternUnits="userSpaceOnUse"><path d="M3 8h39m28 16h20" stroke="#e0f6fa" stroke-width="2" opacity=".55"/></pattern></defs>
+<path fill="#a8d8ee" d="M0 0h1400v480H0z"/><path fill="#7cc6e6" d="M610 0h790v320H610z"/>
+<g fill="#f9fcf8"><path d="M0 124c52-33 75-32 112-14 19-70 113-84 157-29 31-25 89-13 101 32 58-15 92 18 100 52H0z"/><path d="M721 128c6-32 24-49 52-47-10-42 26-73 64-56 10-37 58-35 66-3 43-17 87 18 76 56 37-5 62 12 65 44 34-1 61 17 67 39H714z"/><path d="M1064 191c27-42 61-39 87-14 3-40 40-68 81-48 35-43 104-21 111 21 31-17 62-2 68 25v52h-347z"/></g>
+<g fill="#d5edf2"><path d="M752 138h320l39 23H714z"/><path d="M1096 208h304v19h-336z"/><path d="M0 148h459l11 17H0z"/></g>
+<path fill="#e6f4f4" d="M0 267c206-18 407-7 598 13s354 6 802-4v204H0z"/>
+<path fill="#479fbd" d="M0 302c210-23 359-14 556 6s401-22 844-12v184H0z"/>
+<path fill="#77c8d7" d="M0 355c276-46 483-1 704-19s459-18 696 1v143H0z"/>
+<path fill="url(#waves)" d="M0 310h1400v170H0z"/>
+<path fill="#d4e3c4" d="m679 326 80-28 94-16 118-9 151 11 110 26 35 22-212 27-228-9z"/>
+<path fill="#5d9e93" d="m709 309 99-65 52-7 47-88 41 18 30 83 45-27 30 35 72 13 76 47-170 14-171-6z"/>
+<path fill="#3e7774" d="m849 295 58-146 41 18 30 83 45-27-18 46 61 37-93 9z"/>
+<path fill="#8bb199" d="m907 149-18 51 27-22 17 26 15-37z"/>
+<path fill="#32685c" d="m735 307 31-22 7 10 18-26 10 16 12-25 17 35 17-21 20 29 24-29 19 31 24-34 18 33 23-20 16 23 29-31 22 24 15-12 28 20 20-17 15 22 18-9 19 16-176 11-191-9z"/>
+<path fill="#e8dfb1" d="M0 402c145-39 247-22 369 11s217 20 306 67H0z"/>
+<path fill="#faf1cf" d="M0 397c142-31 242-18 369 11s219 30 306 72h-43c-102-42-179-34-272-62S123 379 0 407z"/>
+<path fill="#f7fbef" opacity=".8" d="M733 352h92v3h-92zm302 8h131v3h-131zm175-15h48v3h-48zm-664 27h112v3H546z"/>
+<g stroke="#315d67" stroke-width="4"><path d="M203 263v148M173 283h60M184 273v20m39-20v20M126 313v86m-22-71h44M361 306v105m-22-88h44"/><path d="M126 328q37 19 77-45 76 64 158 40" fill="none" stroke-width="2"/></g>
+<g transform="translate(270 325)"><path fill="#304e55" d="M0 7h39v77H0z"/><path fill="#a3473e" d="M-4 4h47v8H-4zM1 12h6v68H1zm32 0h6v68h-6zM7 12h26v5H7zM7 40h26v5H7zM7 74h26v6H7z"/><path fill="#aad2cf" d="M9 18h22v21H9zm0 28h22v27H9z"/><path fill="#f6ead0" d="M4 0h31v5H4z"/><path stroke="#e9e4cb" d="M20 19v54"/><path fill="#304e55" d="M25 49h3v7h-3z"/></g>
+<g fill="#f9fcf8" stroke="#f9fcf8" stroke-width="2"><path d="m1010 75 8-3 8 3m19 13 7-3 7 3m-480 91 7-3 7 3" fill="none"/><path d="M1275 47h8v8h-8zm-38 14h5v5h-5zm60 17h4v4h-4z"/></g>
+<path fill="url(#grid)" d="M1164 0h236v480h-236z"/>
+<g fill="#214e80" opacity=".4"><path d="M1360 28h16v3h-16zm13 0h3v16h-3zM1360 438h16v3h-16zm13-13h3v16h-3z"/></g>
+</svg>
