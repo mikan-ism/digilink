@@ -17,3 +17,5 @@
 `hero.svg`、`device.svg`、`sample-sketch.svg`、`crests.svg` はこのサイト用に作成した風景、端末の図案、恐竜スケッチ、紋章名をヒントにした独自の記号です。旧パートナーアイコン（`*mon.svg`）も公開用ソースから外しています。
 
 公開版ではゆきみさんの原投稿をXの公式埋め込みで表示し、画像ファイルを配布しません。埋め込みを表示できない環境では原投稿へのリンクを利用できます。デモ投稿用の風景、端末、希望の図案はこの課題用の素材です。
+
+公開版の8体のドット絵は [Digimon Pixels](https://thejeneral.wixsite.com/dgmnpixels/adv-sp) の作品です。ピヨモンは ShuriTogemon、他の7体は Fenrir が描きました。[利用案内](https://thejeneral.wixsite.com/dgmnpixels/about) に従い、このサイトにGIFを保存して表示しています。

@@ -10,7 +10,7 @@
   {% if portrait %}
     <img class="{{ class_name }} artwork" src="{{ portrait }}" width="{{ size }}" height="{{ size }}" alt="">
   {% else %}
-    <span class="portrait-fallback" aria-hidden="true">{{ partner.name[:2] }}</span>
+    <img class="{{ class_name }} partner-pixel" src="{{ url_for('static', filename='images/partners/' + partner.id + '.gif') }}" width="{{ size }}" height="{{ size }}" alt="">
   {% endif %}
 {% endmacro %}
 <a class="skip" href="#board">掲示板へスキップ</a>
